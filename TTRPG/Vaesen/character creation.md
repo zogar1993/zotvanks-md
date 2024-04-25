@@ -35,6 +35,8 @@ according to your age.
     - All skills must start between 0 and 2.
     - Only the **main skill** may start at 3.
     - Skills can be bought with experience.
+    - Resources start at the lower value for your archetype. This can be raised by spending skill points, each point raises resources by one step, although your starting value cannot exceed what is indicated in the archetype.
+    - Resources can be bought with experience (it is a repeatable talent).
 
 6. Choose a talent.
 
