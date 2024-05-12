@@ -1,5 +1,3 @@
-
-
 ## 1. Big Picture
 
 Establish a broad idea of what the story is about. Something like "Mankind leaves sick earth behind and spread out to the stars" is good. Its not bad to stablish a tone and setting here also, like "its a war story" or "its a political scheming story" or "technology is steampunk".
