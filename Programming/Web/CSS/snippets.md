@@ -67,3 +67,17 @@ li:nth-child(n + 7):nth-child(-n + 9)
 ```css
  min-width: fit-content;
 ```
+
+### Use conditionally on browser support
+```css
+@supports (display: flex) {
+  .flex-container > * {
+    text-shadow: 0 0 2px blue;
+    float: none;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+}
+```
