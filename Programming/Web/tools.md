@@ -1,0 +1,7 @@
+- [Debugbear](https://www.debugbear.com/resource-hint-validator): Resource hint validator. Lets you know if you are preloading too much, on needlessly.
+- [Animista](https://animista.net): Create css animations interactively, and export them into your components.
+- [CSS Generator](https://css-generators.com): Generate masks and the like for patterns with an UI.
+- [Multi Screen Test](http://www.whatismyscreenresolution.net/multi-screen-test): Site to test different screen resolutions.
+- [Contrast Finder](https://contrast-finder.tanaguru.com): Checks contrast ratio between two colors.
+- [Color Palette Generator](https://mycolor.space): Generates a color palette for a site from one color input.
+- [SEO Audit](https://www.semrush.com/siteaudit): Semrush is a seo auditing tool. Although limited when free, it is useful for a preliminar scan.
