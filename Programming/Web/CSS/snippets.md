@@ -57,3 +57,13 @@ li:nth-child(n + 7):nth-child(-n + 9)
     }
  }
 ```
+
+### Vertically align content without flex or grid
+```css
+ align-content: center;
+```
+
+### Use minimum width for flex children
+```css
+ min-width: fit-content;
+```
