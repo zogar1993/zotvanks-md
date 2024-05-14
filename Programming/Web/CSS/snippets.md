@@ -81,3 +81,45 @@ li:nth-child(n + 7):nth-child(-n + 9)
   }
 }
 ```
+
+### Adjusting dynamically to viewport size
+
+```css
+font-size: clamp(1rem, 10vw, 2rem);
+```
+
+### Making paragraphs wrap better visually
+
+```css
+/* works well for long paragraphs */
+text-wrap: pretty;
+
+/* works well for 3 lines or so paragraphs */
+text-wrap: balanced;
+```
+
+### Select element with no children
+
+```css
+div:empty
+```
+
+### Change list items icon
+
+```css
+@counter-style circled-alpha {
+  system: fixed;
+  symbols: Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ;
+  suffix: " ";
+}
+
+.items {
+  list-style: circled-alpha;
+}
+```
+
+### Style area behind the element, useful for glass effect
+
+```css
+backdrop-filter: blur(2px);
+```
