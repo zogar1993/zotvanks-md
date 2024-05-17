@@ -123,3 +123,49 @@ div:empty
 ```css
 backdrop-filter: blur(2px);
 ```
+
+### :focus vs :focus-visible
+
+```css
+/* applies when clicked or focused by keyboard navigation */
+div:focus
+
+/* usually the one you want to use */
+/* applies only when focused by keyboard navigation */
+div:focus-within
+```
+
+### Styling an element that has a focused child
+
+```css
+div:focus-within
+```
+
+### Add css only if the user has hover capabilities
+
+```css
+@media (hover) {
+
+}
+```
+
+### Setting a max width in columns with fit-content
+
+```css
+grid-template-columns: 200px fit-content(40ch) 1fr;
+```
+
+### Making an image which you don't care it will be shown completely, but you want to make it show on dynamic aspect ratios without distorting the image
+
+```css
+object-fit: cover;
+```
+
+### Setting scrims on top of images
+
+```css
+border-image: fill 0 linear-gradient(#0003, #000);
+```
+
+### Mixing colors
+color: color-mix(in srgb, orange 20%, blue);
