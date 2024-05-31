@@ -11,43 +11,6 @@ These columns will fill the content one column at a time, instead of filling one
 columns: <column-width> <column-count>;
 ```
 
-### Select elements not affected by classes
-
-```css
-a:not([class])
-```
-
-### Select range of elements
-```css
-/* from 7 to 0 */
-li:nth-child(n + 7):nth-child(-n + 9)
-```
-
-### Style all but the one hovered
-```css
-/* "select from the parent" way */
-.showcase:hover img { /* ones not hovered */ }
-.showcase img:hover { /* one hovered */ }
-
-/* "all in one selector" way */
-.showcase:has(img:hover) img:not(:hover) { /* ones not hovered */}
-```
-
-### Select surrounding elements 
-```css
-/* select next */
- li:hover + li
-
-/* select previous */
- li:has(+ :hover)
-
-/* select all that come next */
- li:hover ~ li
-
-/* select all that come previous */
- li:has(+ :hover)
-```
-
 ### Keep theming content all in one place with nesting
 ```css
  .button {
@@ -98,12 +61,6 @@ text-wrap: pretty;
 text-wrap: balanced;
 ```
 
-### Select element with no children
-
-```css
-div:empty
-```
-
 ### Change list items icon
 
 ```css
@@ -122,23 +79,6 @@ div:empty
 
 ```css
 backdrop-filter: blur(2px);
-```
-
-### :focus vs :focus-visible
-
-```css
-/* applies when clicked or focused by keyboard navigation */
-div:focus
-
-/* usually the one you want to use */
-/* applies only when focused by keyboard navigation */
-div:focus-within
-```
-
-### Styling an element that has a focused child
-
-```css
-div:focus-within
 ```
 
 ### Add css only if the user has hover capabilities
@@ -168,4 +108,7 @@ border-image: fill 0 linear-gradient(#0003, #000);
 ```
 
 ### Mixing colors
+
+```css
 color: color-mix(in srgb, orange 20%, blue);
+```
