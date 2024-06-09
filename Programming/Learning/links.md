@@ -1,0 +1,3 @@
+- [Roadmap](https://roadmap.sh)
+- [Resources Create Programming Languages](https://tomassetti.me/resources-create-programming-languages/)
+- [Resources Network](https://betterprogramming.pub/developers-need-to-learn-basic-network-engineering-c67767969cd5)
