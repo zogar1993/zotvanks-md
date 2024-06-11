@@ -1,0 +1,5 @@
+- [Tomorrow Corporation Tech Demo](https://www.youtube.com/watch?v=72y2EC5fkcE)
+- [Perfect hash table optimization](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
+- [The problem with times and timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
+- [Solving a GTA Online bug by reverse engineering](https://www.youtube.com/watch?v=e6hOLRyOUg8)
+- [Data oriented design in Zig](https://vimeo.com/649009599)
