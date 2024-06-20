@@ -3,3 +3,5 @@
 - [The problem with times and timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 - [Solving a GTA Online bug by reverse engineering](https://www.youtube.com/watch?v=e6hOLRyOUg8)
 - [Data oriented design in Zig](https://vimeo.com/649009599)
+- [Presentation on TigerBeetle](https://www.youtube.com/watch?v=sC1B3d9C_sI&t=557s)
+- [Finding a 0-day on COX ISP network](https://www.youtube.com/watch?v=TFolQUeWoog)
