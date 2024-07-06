@@ -5,3 +5,4 @@
 - [Contrast Finder](https://contrast-finder.tanaguru.com): Checks contrast ratio between two colors.
 - [Color Palette Generator](https://mycolor.space): Generates a color palette for a site from one color input.
 - [SEO Audit](https://www.semrush.com/siteaudit): Semrush is a seo auditing tool. Although limited when free, it is useful for a preliminar scan.
+- [Tiny PNG](https://tinypng.com): Compress and minify images. 
