@@ -21,7 +21,12 @@
 - Providing a high level of detail in her descriptions may reveal things that many sighted readers might overlook, rendering a somewhat different experience.
 - There is a danger of the descriptions becoming too clinical and losing the mood of the comic.
 - Since the text description is provided by a reader, not the author, the writer’s uncertainty about what she is seeing and what might be important is clear.
+- When describing colors, use shade names such as cobalt blue, periwinkle, burgundy, lime green, metallic gold, or similar names- there’s no need to describe what the color red looks like, but shade names are helpful for providing more in-depth information. However, there’s no need to give shade names for every color in an image if color is not the main focus.
+- Avoid sharing personal opinions about what an image looks like, such as if a dog looks cute or if a dress looks ugly
+- Do not include emoji or excessive punctuation in alt text, unless it is part of a text transcript. Some creators will write “twenty-five exclamation points” or “five cake emoji” because excessive punctuation and emoji are read one at a time by a screen reader.
 
 ## Sources
 - https://twitter.com/adhdbri/status/1397584137167462403
 - https://lastcallmedia.com/blog/accessible-comics
+- https://veroniiiica.com/how-to-write-alt-text-image-descriptions-visually-impaired/
+- https://veroniiiica.com/how-to-write-alt-text-digital-comics/
