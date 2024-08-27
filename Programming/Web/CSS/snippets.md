@@ -111,4 +111,25 @@ border-image: fill 0 linear-gradient(#0003, #000);
 
 ```css
 color: color-mix(in srgb, orange 20%, blue);
+
+color: rgb(from var(--color) calc(r + 50) calc(g * .5) var(--some-color));
 ```
+
+### Form inputs showing valid or invalid state
+
+```css
+  /* these just kick in after user interacts with input */
+  input:user-valid
+  input:user-invalid
+
+  /* hack for older browsers */
+  input:not(:placeholder-shown):valid
+  input:not(:placeholder-shown):invalid
+
+  /* target input while being edited, but is still invalid */
+  input:focus:invalid
+```
+
+### Links
+- [Auto Dimension Transitions](https://css-tricks.com/using-css-transitions-auto-dimensions/): When you want to collapse and expand with a transition.
+- [CSS Positions](https://zellwk.com/blog/css-positions/): Explanations for css positions static, relative, absolute and fixed (but not sticky).
