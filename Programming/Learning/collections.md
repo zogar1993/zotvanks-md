@@ -21,7 +21,6 @@
 
 ## Books
 ✅: Read
-
-
 ❌: Not Read
+
 - ✅ [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/): A book for designing data low level applications with Data Oriented Design.
