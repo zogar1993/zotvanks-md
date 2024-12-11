@@ -10,18 +10,17 @@
 
 ## Galleries:
 - [Css Layout](https://csslayout.io/patterns): A Collection of layout and component mockups.
-- [CSS Shapes](https://sharkcoder.com/visual/shapes): A colletion of shapes done solely with css.
+- [CSS Shapes](https://sharkcoder.com/visual/shapes): A collection of shapes done solely with css.
 - [How To Deal](https://www.howtodeal.dev): Different archetypes of people you can find in the tech industry, and how to deal with them.
 
 ## Reference Sheets:
 - [UX Design Tips](https://www.intechnic.com/blog/100-ux-design-pro-tips-from-user-experience-master/): UX tips grouped by component.
-- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Ilustrated Flexbox examples.
-- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): Ilustrated Grid examples.
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Illustrated Flexbox examples.
+- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): Illustrated Grid examples.
 - [ARIA](https://www.w3.org/TR/wai-aria-1.2/): wai aria roles by html component.
 
 ## Books
 ✅: Read
-
-
 ❌: Not Read
+
 - ✅ [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/): A book for designing data low level applications with Data Oriented Design.
