@@ -8,3 +8,9 @@
 <input type="number" inputmode="numeric"/>
 <input type="text" pattern="[0-9]+" inputmode="numeric">
 ```
+
+## Color input
+
+```html
+<input type="color"/>
+```
