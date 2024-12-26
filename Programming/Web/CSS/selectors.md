@@ -57,3 +57,15 @@ div:focus-within
 ```css
 div:focus-within
 ```
+
+### Numeric input validation
+
+```css
+/* <input type="range" min="0" max="5"/> */
+
+/* valid */
+input:in-range
+
+/* invalid */
+input:not(:in-range)
+```
