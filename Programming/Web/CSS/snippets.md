@@ -143,6 +143,12 @@ color: rgb(from var(--color) calc(r + 50) calc(g * .5) var(--some-color));
   overflow-clip-margin: <distance>;
 ```
 
+### Float
+Useful for X button to the right. Does not work on flex or grid.
+```css
+  float: right;
+```
+
 ### Links
 - [Auto Dimension Transitions](https://css-tricks.com/using-css-transitions-auto-dimensions/): When you want to collapse and expand with a transition.
 - [CSS Positions](https://zellwk.com/blog/css-positions/): Explanations for css positions static, relative, absolute and fixed (but not sticky).
