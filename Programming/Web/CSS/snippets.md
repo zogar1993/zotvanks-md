@@ -130,6 +130,19 @@ color: rgb(from var(--color) calc(r + 50) calc(g * .5) var(--some-color));
   input:focus:invalid
 ```
 
+### Overflow Clip
+
+```css
+  /*
+    Works the same as overflow:hidden, except that you cant set the scroll programatically.
+    This can also be used for only one axes and also works with animations.
+  */
+  overflow: clip;
+  
+  /* bleeds out of the overflow, basically makes it visible but not increase parents size */
+  overflow-clip-margin: <distance>;
+```
+
 ### Links
 - [Auto Dimension Transitions](https://css-tricks.com/using-css-transitions-auto-dimensions/): When you want to collapse and expand with a transition.
 - [CSS Positions](https://zellwk.com/blog/css-positions/): Explanations for css positions static, relative, absolute and fixed (but not sticky).
