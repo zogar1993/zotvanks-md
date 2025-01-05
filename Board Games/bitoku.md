@@ -4,12 +4,17 @@
 2. Add ancient buildings unless there are 4 players. If solo or 2 players, tiles are marked.
 If 3 players, the tiles are unmarked, you need to add one on Lands of Yomi (where you acquire spirits and fireflies),
 and one on Glade of Jade (where you acquire resources).
-3. VER EXPANCIONES DE CEBOLLAS
+3. Place Kodama Tiles. In case of expansions use at least a basic kodama tile,
+never more of 2 of each type, and use 1/3/5 and 2/4/6 for basic tiles.
+2 basic and 1 of each other works for starters.
+If two players, add a third kodama on the selected place.
 4. Setup piles and restock shops
 5. Give each player a random Iwakura Rock (Put it at the leftmost space available)
 6. Give each player starting Yokai
 7. Give each player one random Firefly
 8. Give each player one random Vision
+9. Give each player an amulet (1)
+10. Give each player a wood and a jade
 
 ## Seasons
 
