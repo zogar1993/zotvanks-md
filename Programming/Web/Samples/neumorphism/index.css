@@ -1,0 +1,24 @@
+body {
+    --light-grey: #F9F9F9;
+    background: var(--light-grey);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    width: 120px;
+    height: 50px;
+    background: var(--light-grey);
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+
+    /* this is the actual newmorphism, it needs to be lighter than the background */
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.1), -10px -10px 10px white;
+}
