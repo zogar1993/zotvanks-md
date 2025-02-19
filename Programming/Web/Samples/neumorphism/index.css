@@ -19,6 +19,6 @@ body {
     font-weight: bold;
     cursor: pointer;
 
-    /* this is the actual newmorphism, it needs to be lighter than the background */
+    /* this is the actual neumorphism, it needs to be lighter than the background */
     box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.1), -10px -10px 10px white;
 }
