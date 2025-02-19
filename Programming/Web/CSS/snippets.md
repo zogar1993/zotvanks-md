@@ -23,12 +23,16 @@ columns: <column-width> <column-count>;
 
 ### Vertically align content without flex or grid
 ```css
- align-content: center;
+ div {
+    align-content: center;
+ }
 ```
 
 ### Use minimum width for flex children
 ```css
- min-width: fit-content;
+ div {
+    min-width: fit-content;
+}
 ```
 
 ### Use conditionally on browser support
@@ -147,6 +151,30 @@ color: rgb(from var(--color) calc(r + 50) calc(g * .5) var(--some-color));
 Useful for X button to the right. Does not work on flex or grid.
 ```css
   float: right;
+```
+
+### light-dark()
+Sets colors easily for when user has dark or light mode. 
+```css
+    div {
+        --color: light-dark(white, black);
+    }
+```
+
+### Use minimum available width
+```css
+    div {
+        width: min-content;
+    }
+```
+
+### Text Gradient
+```css
+    .text-gradient {
+        background: linear-gradient(90deg, #ff8a00, #e52e71);
+        background-clip: text;
+        color: transparent;
+    }
 ```
 
 ### Links
