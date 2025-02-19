@@ -28,3 +28,13 @@ li:before {
     content: counter(counter-name) ' ';
 }
 ```
+
+## Properties
+
+```css
+@property --pink {
+    syntax: '<color>';
+    inherits: false;
+    initial-value: hotpink;
+}
+```
