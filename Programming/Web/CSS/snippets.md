@@ -1,7 +1,20 @@
 ### Do as many columns in a grid as possible
 
 ```css
-grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+div {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+div {
+    /* The solution above creates some overflow if shrank too much, so you could do */
+    --min-column-height: 200px;
+    grid-template-columns: repeat(auto-fill, minmax(min(var(--min-column-height), 100%), 1fr))
+}
+
+/*
+    you could also use auto-fit instead of auto-fill.
+    It will create ghost columns for missing content instead of stretching
+*/
 ```
 
 ### Do columns without a grid or table
