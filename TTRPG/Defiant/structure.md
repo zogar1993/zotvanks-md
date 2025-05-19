@@ -9,13 +9,14 @@
 - Advance an Endeavor by Three Steps. What did you do to bolster the Endeavor? 
 - Change Your Unique Trait. What’s your new unique Trait?
 
-- What’s the main issue you’ve been dealing with in your Court, lately? 
-- Have you noticed the Court’s Afflictions affecting life in your Holding? 
-- Are you aware of any Courtiers causing problems in your Court? 
-- Have you implemented any new rules or customs in your Court? 
+## Court Challenge
+- What’s the main issue you’ve been dealing with in your Court, lately?
+- Have you noticed the Court’s Afflictions affecting life in your Holding?
+- Are you aware of any Courtiers causing problems in your Court?
+- Have you implemented any new rules or customs in your Court?
 - Is there anyone or anything you're especially interested in right now? (this last question is for the player, not the character)
 
-At the end of every Episode ask, have…
+## At the end of every Episode ask, have…
 - you done right by your province and princeps? (Province Standing)
 - you stayed true to your bloodlines creed and ideas? (House Standing)
 - you fulfilled your royal duties to the full extent? (Any Standing)
@@ -23,15 +24,14 @@ At the end of every Episode ask, have…
 - your actions gained popularity and fame throughout the domain? (Any Standing)
 
 
-
-
+## Commandments
 - Haz un ejemplo de aquellos que se salen del camino
 - Aquellos de intenciones puras no se acobardan ante la vista
 - Deleitense en el dominio reclamado
 
 - El amor no trae mas que desesperanza
 
-Principios:
+## Principles
 - Los defiant le hacen frente al apocalipsis
 - La vida de todos los defiants es sagrada
 - El hierophante es la autoridad maxima
