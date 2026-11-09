@@ -1,4 +1,4 @@
-## Personal Affair
+## Personal Affair and Personal Challenge
 - Gain Two Points of either Province or House Standing.What exactly have you been doing for either the Princepty or your House? 
 - Increase the Potential of the Next Court Challenge by Three. How did you manage to improve the situation in your Court? 
 - Remove All Afflictions From Yourself. What did it take for you to get better? 
@@ -29,6 +29,7 @@
 - Aquellos de intenciones puras no se acobardan ante la vista
 - Deleitense en el dominio reclamado
 
+## Province Rules
 - El amor no trae mas que desesperanza
 
 ## Principles
@@ -39,8 +40,6 @@
 - Los ejecutores son las voces del hierofante
 - Los princeps gobiernan las provincias
 - A la realeza se confiada sus cortes
-
-
 
 By no means are the Players expected to turn every situation upside-down. They are, however, welcome to use their Questions and Special Rules to influence each Scene in a matter they see fit and that resonates well with their Characters. In Defiant, it’s not the GM’s job to tailor the surroundings to the Characters - this responsibility falls on the Players.
 
